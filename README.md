@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi%2C+I'm+a+CSE+Student;Building+websites+and+Projects;Ubuntu+GNOME+User)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Hi%2C+I'm+Arnav+Jha+a+CSE+Student;Building+websites+and+Projects;Ubuntu+GNOME+User)
 ### 🛠️ Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
