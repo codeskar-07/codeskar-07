@@ -11,3 +11,10 @@
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeskar-07&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeskar-07&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeskar-07&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeskar-07&theme=tokyonight" alt="Activity Graph" width="100%" />
+</p>
