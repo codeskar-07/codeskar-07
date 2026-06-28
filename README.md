@@ -16,5 +16,5 @@
   
   <br><br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeskar-07&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeskar-07&theme=github-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
