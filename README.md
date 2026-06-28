@@ -10,4 +10,4 @@
 
 ![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeskar-07&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ycodeskar-07&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeskar-07&layout=compact&theme=radical)
